@@ -4,7 +4,7 @@ email: kristofer@linnestjerna.se
 description: > # this means to ignore newlines until "baseurl:"
   A dotNET programmers diary when building, configuring, coding and trying out new stuff in the land of Darwin with dotNET on his mind
   This site is meant to be an aid when in doubt...if this is the correct path to walk.
- 
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://krippz.github.io" # the base hostname & protocol for your site
 twitter_username: krippz
@@ -12,3 +12,7 @@ github_username:  krippz
 
 # Build settings
 markdown: kramdown
+
+
+#Serve
+port: 8888
