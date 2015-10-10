@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/krilin/Documents/blogs/krippz.github.io/"
+        }
+    ],
+
+    "settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/krilin/Documents/blogs/krippz.github.io/_posts",
+            "drafts_path": "/Users/krilin/Documents/blogs/krippz.github.io/_drafts",
+        }
+    }
+}
